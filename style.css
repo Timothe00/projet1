@@ -1,0 +1,229 @@
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+
+
+
+.logo{
+  margin-left: 100px;
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+
+.nav-link{
+  margin-right: 25px;
+  color: #fff;
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+
+  i{
+    background-color: #ffffff;
+    padding: 12px;
+    color: rgb(18, 168, 56);
+  }
+
+  h4{
+    text-align: center;
+    color: #ffffff;
+    font-size: 17px;
+    font-weight: bold;
+  }
+
+  h5{
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+
+  .btn-titre{
+    position: relative;
+    bottom: 400px;
+    
+  }
+
+ 
+
+.btnn{
+    border-radius: 90px;  
+  }
+
+
+
+.fusee{
+  display: flex;
+  align-items: center;
+}
+
+
+.icones{
+  display: flex;
+  justify-content: space-between;
+}
+
+.icone{
+  margin-right: 15px;
+  margin-bottom: 20px;
+}
+
+.element-droit{
+  margin-right: 50px;
+  margin-top: 45px;
+}
+
+.pousse-haut{
+  position: relative;
+  bottom: 50px;
+}
+
+.hachere{
+  height: 4px;
+  background-color: rgb(154, 154, 170);
+  opacity: 0.3;
+}
+
+.alignez-vous{
+  display: flex;
+  align-items: center;
+}
+
+.texto{
+  padding-top: 50px;
+}
+
+.fusee-feu{
+  margin-right: 25px;
+  margin-bottom: 15px;
+  
+}
+
+.bamba{
+  display: flex;
+  align-items: center;
+  margin-right: 100px;
+}
+
+
+@media (max-width: 600px) { 
+            
+  .img{
+      width: 428px;
+      height: 520px;
+  }
+  
+}
+
+.grille{
+  display: flex;
+  align-items: center;
+}
+
+
+li{
+  list-style-type: none;
+  padding: 10px;
+}
+
+.our-project{
+  margin-left: 45px;
+}
+
+.dont-miss{
+  background-image: url(images/slide-02.jpg);
+  height: 400px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-top: 50px;
+}
+
+.souscribe{
+  width: 450px;
+  height: 45px;
+  border-radius: 50px;
+  background-color: #fff;
+  color: #ffffff;
+  opacity: 0.5;
+}
+
+
+.digital-team{
+  background-image: url(images/slide-03.jpg);
+  height: 800px;
+  margin-top: 100px;
+}
+
+.carte{
+  margin-left: 40px;
+
+}
+.uh{
+  color: #ffffff;
+  font-size: 17px;
+}
+.member{
+  color: #fff;
+  padding-top: 10px;
+}
+
+
+.message{
+  margin-top: 30px;
+}
+
+
+.btns{
+  background-color: rgb(31, 228, 116);
+  width: 200px;
+  height: 40px;
+  border-radius: 50px;
+}
+
+
+.contactss{
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+
+
+
+footer{
+  background-image: url(images/slide-01.jpg);
+  height: 200px;
+}
+
+footer{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section_footer{
+margin-right: 600px;
+margin-top: 100px;
+margin-left: 100px;
+color: #fff;
+}
+
+.section_footer_icon{
+margin-top: 100px;
+color: #fff;
+}
+
+.fab, .fa-dribbble, 
+.fab, .fa-linkedin-in, 
+.fab, .fa-twitter-square, 
+.fab, .fa-facebook{
+color: #5fb759;
+border: 1px solid #5fb759;
+padding: 10px;
+border-radius: 50%;
+background-color: #fff;
+}
